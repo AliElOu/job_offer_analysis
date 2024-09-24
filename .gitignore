@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Tests file
+scraping/scrape_tests.ipynb
+
 # C extensions
 *.so
 
